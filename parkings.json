@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name":"Parking 1",
+        "type": "AIRPORT",
+        "city": "ROISSY EN FRANCE",
+        "pic": "https://images.pexels.com/photos/3596713/pexels-photo-3596713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "id": 2,
+        "name":"Parking 2",
+        "type": "INNER CITY",
+        "city": "BEAUVAIS",
+        "pic": "https://nsa40.casimages.com/img/2021/07/12/210712112659440709.jpg"
+
+    },
+    {
+        "id": 3,
+        "name":"Parking 3",
+        "type": "AIRPORT",
+        "city": "ORLY",
+        "pic": "https://images.pexels.com/photos/34134/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+
+    },
+    {
+        "id": 4,
+        "name":"Parking 4",
+        "type": "INNER CITY",
+        "city": "NICE",
+        "pic": "https://nsa40.casimages.com/img/2021/07/12/210712112659440709.jpg"
+
+    },
+    {
+        "id": 5,
+        "name":"Parking 6",
+        "type": "INNER CITY",
+        "city": "ORLEANS",
+        "pic": "https://nsa40.casimages.com/img/2021/07/12/210712112659440709.jpg"
+
+    },
+    {
+        "id": 6,
+        "name":"Parking 7",
+        "type": "AIRPORT",
+        "city": "TOURS",
+        "pic": "https://images.pexels.com/photos/5273508/pexels-photo-5273508.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+
+    },
+    {
+        "id": 7,
+        "name":"Parking 8",
+        "type": "AIRPORT",
+        "city": "MARSEILLE",
+        "pic": "https://nsa40.casimages.com/img/2021/07/12/210712112659440709.jpg"
+
+    }
+]
